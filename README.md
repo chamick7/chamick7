@@ -1,7 +1,20 @@
 ### Hi there, I'm Mick <img src="https://github.com/chamick7/chamick7/blob/main/img/Hi.gif" width="30px" />
+<br>
+
+  <a href="https://in.linkedin.com/in/TheDudeThatCode">
+      <img align="left" alt="chamick7 | Linkedin" width="24px" src="https://github.com/chamick7/chamick7/blob/main/img/Linkedin.svg" />
+   </a>
+   <a href="https://www.instagram.com/cha_mick7/">
+      <img align="left" alt="chamick7 | Instagram" width="24px" src="https://github.com/chamick7/chamick7/blob/main/img/Instagram.svg" />
+   </a>
+   <a href="mailto:sw.chal7@gmail.com">
+      <img align="left" alt="chamick7 | Gmail" width="26px" src="https://github.com/chamick7/chamick7/blob/main/img/Gmail.svg" />
+   </a>
+
+<br>
 
 
-![chamick7's github stats](https://github-readme-stats.vercel.app/api?username=chamick7&show_icons=true&hide_border=true)
+![chamick7's github stats](https://github-readme-stats.vercel.app/api?username=chamick7&show_icons=true&theme=cobalt)
 
 
 ### MY Languages and Tools:
@@ -21,16 +34,5 @@
 <br>
 <code><a href = "https://www.digitalocean.com/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/digitalocean-icon-1.svg"></a></code>
 
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamick7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  <a href="https://in.linkedin.com/in/TheDudeThatCode">
-      <img align="left" alt="chamick7 | Linkedin" width="24px" src="https://github.com/chamick7/chamick7/img/Linkedin.svg" />
-   </a>
-   <a href="https://www.instagram.com/cha_mick7/">
-      <img align="left" alt="chamick7 | Instagram" width="24px" src="https://github.com/chamick7/chamick7/img/Instagram.svg" />
-   </a>
-   <a href="mailto:sw.chal7@gmail.com">
-      <img align="left" alt="chamick7 | Gmail" width="26px" src="https://github.com//chamick7/chamick7/img/Gmail.svg" />
-   </a>
-
-<br>
