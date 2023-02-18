@@ -1,7 +1,7 @@
 ### Hi there, I'm Mick <img src="https://github.com/chamick7/chamick7/blob/main/img/Hi.gif" width="30px" />
 <br>
 
-  <a href="https://in.linkedin.com/in/TheDudeThatCode">
+  <a href="https://www.linkedin.com/in/sorrawat-hayeehateng-a022261b7/">
       <img align="left" alt="chamick7 | Linkedin" width="24px" src="https://github.com/chamick7/chamick7/blob/main/img/Linkedin.svg" />
    </a>
    <a href="https://www.instagram.com/cha_mick7/">
