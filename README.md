@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/sorrawat-hayeehateng-a022261b7/">
       <img align="left" alt="chamick7 | Linkedin" width="24px" src="https://github.com/chamick7/chamick7/blob/main/img/Linkedin.svg" />
    </a>
-   <a href="https://www.instagram.com/cha_mick7/">
-      <img align="left" alt="chamick7 | Instagram" width="24px" src="https://github.com/chamick7/chamick7/blob/main/img/Instagram.svg" />
-   </a>
    <a href="mailto:sw.chal7@gmail.com">
       <img align="left" alt="chamick7 | Gmail" width="26px" src="https://github.com/chamick7/chamick7/blob/main/img/Gmail.svg" />
    </a>
